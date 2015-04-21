@@ -1,0 +1,135 @@
+
+
+.menu{
+
+	height:40px;
+	line-height:40px;
+	margin:0;
+	overflow-x:auto;
+	padding:0;
+	position: absolute;
+	white-space:nowrap;
+	background-color: #101010;
+width: 100%;
+}
+
+
+
+.menu2{
+	height:40px;
+	line-height:40px;
+	margin:0;
+	margin-left: 90%;
+	padding:0;
+	white-space:nowrap;
+	background-color: #101010;
+		position:relative;
+}
+
+
+
+li{
+	display: inline-block;
+}
+
+a{
+	color: #eeeeee;
+	display: inline-block;
+	margin: 0 0.3em;
+	padding: 0 0.2em;							
+	text-decoration: none;
+
+}
+
+.menu-registro{
+	color: #eeeeee;
+	display: inline-block;
+	margin:right;
+
+	text-decoration: none;
+	text-align: right;
+
+}
+
+.menu-Login{
+
+
+}
+.centro{
+
+	padding: 0.2em 0.145em;
+	background:#eeeeee;
+
+	border-radius: 6px;
+	margin-top: 25px;
+	margin-left: 20px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	line-height: 18px;
+}
+
+.centro-boton{
+	background: #428bca;
+	border-radius: 0.5em;
+	color: white;
+	text-decoration: none;
+	padding: 0.2em 0.5em;
+
+
+}
+
+
+
+.Abajo {
+	margin-left: 20px;
+	position: inline-block;
+
+}
+
+
+
+
+.Abajo-descripcion
+
+{
+
+	width: 300px;
+	float: left;
+	margin: 2em;
+	font-family: sans-serif;
+
+}
+
+
+.Abajo-boton{
+	background: #FFFFFF;
+	border-radius: 10px;
+	color: #101010;
+	text-decoration: none;
+	padding: 0.2em 0.5em;
+	border-width: thick;
+	border-style: solid;
+	border-color: #eeeeee;
+
+}
+
+footer{
+	
+	color:black;
+	padding:.10em 0;
+	margin-left: 2%;
+	text-align:left;
+	width:100%;
+	font-weight:normal;
+	font-size:14px;
+	display:inline-block;
+	
+
+}
+
+.seminario{
+
+	position:relative;
+	counter-increment:10px; 
+	display: none;
+}
